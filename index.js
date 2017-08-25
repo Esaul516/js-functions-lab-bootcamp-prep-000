@@ -8,7 +8,4 @@ function happyHolidays () {
   return ("Happy holidays!")
 }
 
-function happyHolidaysTo(name) {
-  if happyHolidaysTo(name) === "Happy Holidays, you!"
-  return ("Happy holidays, ${name}!")
-}
+
