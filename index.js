@@ -4,6 +4,10 @@ var name = "Avi"
 var holiday = "Halloween"
 var days = "69"
 
-function happyHolidays ( ) {
+function happyHolidays () {
   return ("Happy holidays!")
 } 
+
+function happyHolidaysTo () {
+  return ("Happy holidays, ${name}!")
+}
