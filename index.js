@@ -2,8 +2,8 @@
 
 var name = "you"
 var holiday = "Independence Day"
-var days = "69"
-var message = 'Happy holidays, ${name}!'
+var days = "20"
+
 
 
 function happyHolidays () {
@@ -16,4 +16,8 @@ function happyHolidaysTo(name) {
 
 function happyHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
+}
+
+function holidayCountdown(holiday, days) {
+  return `It's ${days} days until ${holiday}!`
 }
