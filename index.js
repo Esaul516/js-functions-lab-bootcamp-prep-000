@@ -9,7 +9,3 @@ var message = 'Happy holidays, ${name}!'
 function happyHolidays () {
   return ("Happy holidays!")
 }
-function happyHolidaysTo(string) {
-  if string(name === "you")
-  return ("Happy holidays, ${name}!")
-}
