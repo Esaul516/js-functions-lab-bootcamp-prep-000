@@ -5,5 +5,5 @@ var holiday = "Halloween"
 var days = "69"
 
 function happyHolidays () {
-  return ("Happy holidays!")
+  return string("Happy holidays!")
 }
